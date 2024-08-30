@@ -20,4 +20,4 @@
 
 10.Delete the products which product price value are 28.
 
-=>list out the answer given on these two files [  Quries answers.js , Quries answers with outputs.js ]...kindly check it!
+=>list out the answer given on these two files [  Queries answers.js , Queries answers with outputs.js ]...kindly check it!
